@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xXUltraGoldXx alias Alex
-- 👀 I’m interested in Software Engineering, in particular Java, JavaScript, HTML, CSS, PHP, SQL
+- 👀 I’m interested in Software Development, in particular Java, JavaScript, HTML, CSS, PHP, SQL
 - 🌱 I’m currently learning Java and Other to refresh
 - 📫 Please have a look at my website: Cooming Soon!
 And feel free to contact me :)
